@@ -15,6 +15,9 @@ The App features include:
   * View multiple the combined weight of multiple exercises on the `stats` page.
 
 ## Built With
+* MongoDB
+* Mongoose.js
+* Express
 
 ## Authors
 Jennifer Genes
